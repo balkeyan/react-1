@@ -1,6 +1,6 @@
-function Header() {
+function Header(props) {
   return (
-    <h1 className="title">🎮 Game Collection</h1>
+    <h1 className="app-title">{props.title}</h1>
   );
 }
 
