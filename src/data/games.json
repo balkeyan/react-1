@@ -6,6 +6,9 @@
     "genre": "Sandbox",
     "rating": 9.5,
     "year": 2011,
+    "developer": "Mojang Studios",
+    "multiplayer": true,
+    "leeftijd": 7,
     "image": "minecraft.jpg"
   },
   {
@@ -14,7 +17,10 @@
     "platform": "Nintendo Switch 2",
     "genre": "Race",
     "rating": 9.3,
-    "year": 2025
+    "year": 2025,
+    "developer": "Nintendo",
+    "multiplayer": true,
+    "leeftijd": 3
   },
   {
     "id": 3,
@@ -23,6 +29,9 @@
     "genre": "Sport",
     "rating": 8.9,
     "year": 2015,
+    "developer": "Psyonix",
+    "multiplayer": true,
+    "leeftijd": 3,
     "image": "rocketleague.jpg"
   },
   {
@@ -31,7 +40,10 @@
     "platform": "PlayStation 5",
     "genre": "Sport",
     "rating": 8.6,
-    "year": 2025
+    "year": 2025,
+    "developer": "EA Sports",
+    "multiplayer": true,
+    "leeftijd": 3
   },
   {
     "id": 5,
@@ -39,7 +51,10 @@
     "platform": "Nintendo Switch",
     "genre": "Adventure",
     "rating": 9.8,
-    "year": 2023
+    "year": 2023,
+    "developer": "Nintendo",
+    "multiplayer": false,
+    "leeftijd": 12
   },
   {
     "id": 6,
@@ -47,7 +62,10 @@
     "platform": "PC",
     "genre": "Battle Royale",
     "rating": 8.7,
-    "year": 2017
+    "year": 2017,
+    "developer": "Epic Games",
+    "multiplayer": true,
+    "leeftijd": 12
   },
   {
     "id": 7,
@@ -55,7 +73,10 @@
     "platform": "PC",
     "genre": "RPG",
     "rating": 8.8,
-    "year": 2020
+    "year": 2020,
+    "developer": "CD Projekt Red",
+    "multiplayer": false,
+    "leeftijd": 18
   },
   {
     "id": 8,
@@ -63,7 +84,10 @@
     "platform": "PC",
     "genre": "Adventure",
     "rating": 9.9,
-    "year": 2018
+    "year": 2018,
+    "developer": "Rockstar Games",
+    "multiplayer": true,
+    "leeftijd": 18
   },
   {
     "id": 9,
@@ -71,7 +95,10 @@
     "platform": "PC",
     "genre": "Action",
     "rating": 9.8,
-    "year": 2013
+    "year": 2013,
+    "developer": "Rockstar Games",
+    "multiplayer": true,
+    "leeftijd": 18
   },
   {
     "id": 10,
@@ -79,7 +106,10 @@
     "platform": "PlayStation 5",
     "genre": "RPG",
     "rating": 9.7,
-    "year": 2022
+    "year": 2022,
+    "developer": "FromSoftware",
+    "multiplayer": true,
+    "leeftijd": 16
   },
   {
     "id": 11,
@@ -88,6 +118,9 @@
     "genre": "Developer Event",
     "rating": 10.0,
     "year": 2027,
+    "developer": "ROC Amstelland studenten",
+    "multiplayer": true,
+    "leeftijd": 12,
     "image": "devchallenge.jpg"
   },
   {
@@ -96,7 +129,10 @@
     "platform": "PC",
     "genre": "Sandbox",
     "rating": 9.2,
-    "year": 2011
+    "year": 2011,
+    "developer": "Re-Logic",
+    "multiplayer": true,
+    "leeftijd": 12
   },
   {
     "id": 13,
@@ -104,7 +140,10 @@
     "platform": "PC",
     "genre": "Shooter",
     "rating": 8.4,
-    "year": 2020
+    "year": 2020,
+    "developer": "Riot Games",
+    "multiplayer": true,
+    "leeftijd": 16
   },
   {
     "id": 14,
@@ -112,7 +151,10 @@
     "platform": "PC",
     "genre": "MOBA",
     "rating": 8.5,
-    "year": 2009
+    "year": 2009,
+    "developer": "Riot Games",
+    "multiplayer": true,
+    "leeftijd": 12
   },
   {
     "id": 15,
@@ -120,7 +162,10 @@
     "platform": "PC",
     "genre": "Sandbox",
     "rating": 8.0,
-    "year": 2006
+    "year": 2006,
+    "developer": "Roblox Corporation",
+    "multiplayer": true,
+    "leeftijd": 7
   },
   {
     "id": 16,
@@ -128,7 +173,10 @@
     "platform": "Nintendo Switch",
     "genre": "Simulatie",
     "rating": 9.0,
-    "year": 2020
+    "year": 2020,
+    "developer": "Nintendo",
+    "multiplayer": true,
+    "leeftijd": 3
   },
   {
     "id": 17,
@@ -136,7 +184,10 @@
     "platform": "PC",
     "genre": "RPG",
     "rating": 9.6,
-    "year": 2015
+    "year": 2015,
+    "developer": "CD Projekt Red",
+    "multiplayer": false,
+    "leeftijd": 18
   },
   {
     "id": 18,
@@ -144,7 +195,10 @@
     "platform": "PlayStation 5",
     "genre": "Adventure",
     "rating": 8.7,
-    "year": 2023
+    "year": 2023,
+    "developer": "Avalanche Software",
+    "multiplayer": false,
+    "leeftijd": 16
   },
   {
     "id": 19,
@@ -152,7 +206,10 @@
     "platform": "PlayStation 5",
     "genre": "Action",
     "rating": 8.3,
-    "year": 2025
+    "year": 2025,
+    "developer": "Ubisoft",
+    "multiplayer": false,
+    "leeftijd": 18
   },
   {
     "id": 20,
@@ -160,7 +217,10 @@
     "platform": "PlayStation 5",
     "genre": "Shooter",
     "rating": 8.1,
-    "year": 2025
+    "year": 2025,
+    "developer": "Treyarch",
+    "multiplayer": true,
+    "leeftijd": 18
   },
   {
     "id": 21,
@@ -168,6 +228,9 @@
     "platform": "Xbox Series X",
     "genre": "Race",
     "rating": 9.2,
-    "year": 2021
+    "year": 2021,
+    "developer": "Playground Games",
+    "multiplayer": true,
+    "leeftijd": 3
   }
 ]
